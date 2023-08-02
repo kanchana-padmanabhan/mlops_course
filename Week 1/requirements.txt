@@ -1,0 +1,12 @@
+mlflow
+flask
+pandas
+numpy
+xgboost
+scikit-learn
+jupyter
+gunicorn
+mysql-connector-python
+sqlalchemy
+pymysql
+optuna

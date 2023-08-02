@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/a4e86cc25d7a4a0a993953d8aa9647d7/artifacts
+end_time: 1690687472752
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: a4e86cc25d7a4a0a993953d8aa9647d7
+run_name: enchanting-fox-619
+run_uuid: a4e86cc25d7a4a0a993953d8aa9647d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687470318
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

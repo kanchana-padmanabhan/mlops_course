@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/643682becb1041fcb3fa6e5d54a48b37/artifacts
+end_time: 1690688031691
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 643682becb1041fcb3fa6e5d54a48b37
+run_name: skittish-skink-895
+run_uuid: 643682becb1041fcb3fa6e5d54a48b37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688028522
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

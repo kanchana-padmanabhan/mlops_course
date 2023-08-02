@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/d945cd1552d74f5bbd312db3f4c22dad/artifacts
+end_time: 1690687276118
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: d945cd1552d74f5bbd312db3f4c22dad
+run_name: exultant-gnu-497
+run_uuid: d945cd1552d74f5bbd312db3f4c22dad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687274215
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

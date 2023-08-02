@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/fc7559c7c36f41a58ef44d3d98c5f402/artifacts
+end_time: 1690632017849
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: fc7559c7c36f41a58ef44d3d98c5f402
+run_name: angry-zebra-386
+run_uuid: fc7559c7c36f41a58ef44d3d98c5f402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690632016242
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

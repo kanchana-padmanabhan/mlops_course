@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/feb85ad6e82841829a887d3f76603b02/artifacts
+end_time: 1690687923468
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: feb85ad6e82841829a887d3f76603b02
+run_name: nebulous-doe-96
+run_uuid: feb85ad6e82841829a887d3f76603b02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687920316
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

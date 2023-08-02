@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/4ad656e2f4d74447b3fef2fd8d5ee352/artifacts
+end_time: 1690687573839
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 4ad656e2f4d74447b3fef2fd8d5ee352
+run_name: welcoming-skunk-267
+run_uuid: 4ad656e2f4d74447b3fef2fd8d5ee352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687571679
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

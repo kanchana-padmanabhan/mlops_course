@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/a8148987dd17458cb02c60f46abca9f5/artifacts
+end_time: 1690687613195
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: a8148987dd17458cb02c60f46abca9f5
+run_name: righteous-hound-84
+run_uuid: a8148987dd17458cb02c60f46abca9f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687611077
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/ba98ecf99be94522b86495002f19e9a9/artifacts
+end_time: 1690687903792
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: ba98ecf99be94522b86495002f19e9a9
+run_name: trusting-shad-757
+run_uuid: ba98ecf99be94522b86495002f19e9a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687899961
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

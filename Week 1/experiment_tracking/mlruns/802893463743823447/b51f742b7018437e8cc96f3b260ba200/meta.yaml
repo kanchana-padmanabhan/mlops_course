@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/b51f742b7018437e8cc96f3b260ba200/artifacts
+end_time: 1690687946007
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: b51f742b7018437e8cc96f3b260ba200
+run_name: colorful-gnu-903
+run_uuid: b51f742b7018437e8cc96f3b260ba200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687942795
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

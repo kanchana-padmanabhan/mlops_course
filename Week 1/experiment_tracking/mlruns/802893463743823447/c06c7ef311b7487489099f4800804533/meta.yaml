@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/c06c7ef311b7487489099f4800804533/artifacts
+end_time: 1690687927035
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: c06c7ef311b7487489099f4800804533
+run_name: auspicious-fowl-100
+run_uuid: c06c7ef311b7487489099f4800804533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687923499
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

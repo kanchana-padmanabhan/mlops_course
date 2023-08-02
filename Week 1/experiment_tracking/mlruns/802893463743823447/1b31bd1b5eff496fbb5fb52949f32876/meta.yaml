@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/1b31bd1b5eff496fbb5fb52949f32876/artifacts
+end_time: 1690687468142
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 1b31bd1b5eff496fbb5fb52949f32876
+run_name: fortunate-crane-916
+run_uuid: 1b31bd1b5eff496fbb5fb52949f32876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687465988
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

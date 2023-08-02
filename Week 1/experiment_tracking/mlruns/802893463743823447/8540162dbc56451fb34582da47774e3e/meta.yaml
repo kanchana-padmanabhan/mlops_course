@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/8540162dbc56451fb34582da47774e3e/artifacts
+end_time: 1690687450611
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 8540162dbc56451fb34582da47774e3e
+run_name: gentle-hog-563
+run_uuid: 8540162dbc56451fb34582da47774e3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687447483
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

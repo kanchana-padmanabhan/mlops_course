@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/a7130535824e44e69dab7a6df5342500/artifacts
+end_time: 1690687951941
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: a7130535824e44e69dab7a6df5342500
+run_name: sincere-trout-550
+run_uuid: a7130535824e44e69dab7a6df5342500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687949001
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/a027c6237fff4fbab0669af66a354dbc/artifacts
+end_time: 1690687438690
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: a027c6237fff4fbab0669af66a354dbc
+run_name: masked-snake-806
+run_uuid: a027c6237fff4fbab0669af66a354dbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687436624
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

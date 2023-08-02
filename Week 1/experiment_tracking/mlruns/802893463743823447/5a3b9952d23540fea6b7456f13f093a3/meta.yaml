@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/5a3b9952d23540fea6b7456f13f093a3/artifacts
+end_time: 1690688034816
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 5a3b9952d23540fea6b7456f13f093a3
+run_name: inquisitive-colt-131
+run_uuid: 5a3b9952d23540fea6b7456f13f093a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688031725
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

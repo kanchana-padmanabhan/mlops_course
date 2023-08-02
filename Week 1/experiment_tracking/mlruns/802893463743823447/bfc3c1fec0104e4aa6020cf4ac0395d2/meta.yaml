@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/bfc3c1fec0104e4aa6020cf4ac0395d2/artifacts
+end_time: 1690687694871
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: bfc3c1fec0104e4aa6020cf4ac0395d2
+run_name: receptive-mule-308
+run_uuid: bfc3c1fec0104e4aa6020cf4ac0395d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687690990
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

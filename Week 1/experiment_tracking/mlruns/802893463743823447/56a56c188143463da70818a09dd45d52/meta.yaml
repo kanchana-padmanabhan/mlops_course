@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/56a56c188143463da70818a09dd45d52/artifacts
+end_time: 1690687831358
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 56a56c188143463da70818a09dd45d52
+run_name: redolent-robin-165
+run_uuid: 56a56c188143463da70818a09dd45d52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687828490
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

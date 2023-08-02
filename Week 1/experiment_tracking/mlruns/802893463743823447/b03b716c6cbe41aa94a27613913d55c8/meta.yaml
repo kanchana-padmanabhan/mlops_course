@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/b03b716c6cbe41aa94a27613913d55c8/artifacts
+end_time: 1690688048000
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: b03b716c6cbe41aa94a27613913d55c8
+run_name: rambunctious-fly-32
+run_uuid: b03b716c6cbe41aa94a27613913d55c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688044754
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

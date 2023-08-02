@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/901789eba64348d3af3d34fd5a9321cd/artifacts
+end_time: 1690687998810
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 901789eba64348d3af3d34fd5a9321cd
+run_name: dashing-snail-924
+run_uuid: 901789eba64348d3af3d34fd5a9321cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687996528
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

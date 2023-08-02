@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/846b8ef2afa1472ea6766c5e0ec82d5b/artifacts
+end_time: 1690687508457
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 846b8ef2afa1472ea6766c5e0ec82d5b
+run_name: likeable-lynx-969
+run_uuid: 846b8ef2afa1472ea6766c5e0ec82d5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687506021
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

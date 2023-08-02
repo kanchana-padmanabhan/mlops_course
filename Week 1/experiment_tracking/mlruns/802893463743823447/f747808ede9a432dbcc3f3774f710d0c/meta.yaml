@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/f747808ede9a432dbcc3f3774f710d0c/artifacts
+end_time: 1690687501311
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: f747808ede9a432dbcc3f3774f710d0c
+run_name: salty-calf-122
+run_uuid: f747808ede9a432dbcc3f3774f710d0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687498735
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

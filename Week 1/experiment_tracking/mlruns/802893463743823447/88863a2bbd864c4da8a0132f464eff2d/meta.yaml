@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/88863a2bbd864c4da8a0132f464eff2d/artifacts
+end_time: 1690687884694
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 88863a2bbd864c4da8a0132f464eff2d
+run_name: legendary-lark-714
+run_uuid: 88863a2bbd864c4da8a0132f464eff2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687881841
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

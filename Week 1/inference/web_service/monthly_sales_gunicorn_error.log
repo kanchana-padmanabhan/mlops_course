@@ -1,0 +1,145 @@
+[2023-07-31 22:58:59 -0400] [3140] [INFO] Starting gunicorn 20.1.0
+[2023-07-31 22:58:59 -0400] [3140] [INFO] Listening at: http://0.0.0.0:9696 (3140)
+[2023-07-31 22:58:59 -0400] [3140] [INFO] Using worker: sync
+[2023-07-31 22:58:59 -0400] [3142] [INFO] Booting worker with pid: 3142
+[2023-07-31 22:58:59 -0400] [3143] [INFO] Booting worker with pid: 3143
+[2023-07-31 22:58:59 -0400] [3144] [INFO] Booting worker with pid: 3144
+[2023-07-31 22:58:59 -0400] [3145] [INFO] Booting worker with pid: 3145
+[2023-07-31 22:59:01 -0400] [3142] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/opt/homebrew/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/kanchanapadmanabhan/OneDrive/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/inference/web_service/WebService_Endpoint.py", line 17, in <module>
+    name = os.environ['model_name'] #'monthly_sales'
+  File "/opt/homebrew/opt/python@3.8/bin/../Frameworks/Python.framework/Versions/3.8/lib/python3.8/os.py", line 675, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'model_name'
+[2023-07-31 22:59:01 -0400] [3142] [INFO] Worker exiting (pid: 3142)
+[2023-07-31 22:59:01 -0400] [3145] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/opt/homebrew/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/kanchanapadmanabhan/OneDrive/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/inference/web_service/WebService_Endpoint.py", line 17, in <module>
+    name = os.environ['model_name'] #'monthly_sales'
+  File "/opt/homebrew/opt/python@3.8/bin/../Frameworks/Python.framework/Versions/3.8/lib/python3.8/os.py", line 675, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'model_name'
+[2023-07-31 22:59:01 -0400] [3145] [INFO] Worker exiting (pid: 3145)
+[2023-07-31 22:59:01 -0400] [3144] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/opt/homebrew/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/kanchanapadmanabhan/OneDrive/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/inference/web_service/WebService_Endpoint.py", line 17, in <module>
+    name = os.environ['model_name'] #'monthly_sales'
+  File "/opt/homebrew/opt/python@3.8/bin/../Frameworks/Python.framework/Versions/3.8/lib/python3.8/os.py", line 675, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'model_name'
+[2023-07-31 22:59:01 -0400] [3144] [INFO] Worker exiting (pid: 3144)
+[2023-07-31 22:59:01 -0400] [3143] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/Users/kanchanapadmanabhan/Library/CloudStorage/OneDrive-Personal/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/venv/lib/python3.8/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/opt/homebrew/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/kanchanapadmanabhan/OneDrive/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/inference/web_service/WebService_Endpoint.py", line 17, in <module>
+    name = os.environ['model_name'] #'monthly_sales'
+  File "/opt/homebrew/opt/python@3.8/bin/../Frameworks/Python.framework/Versions/3.8/lib/python3.8/os.py", line 675, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'model_name'
+[2023-07-31 22:59:01 -0400] [3143] [INFO] Worker exiting (pid: 3143)
+[2023-07-31 22:59:01 -0400] [3140] [WARNING] Worker with pid 3145 was terminated due to signal 15
+[2023-07-31 22:59:01 -0400] [3140] [WARNING] Worker with pid 3144 was terminated due to signal 15
+[2023-07-31 22:59:01 -0400] [3140] [WARNING] Worker with pid 3143 was terminated due to signal 15
+[2023-07-31 22:59:01 -0400] [3140] [INFO] Shutting down: Master
+[2023-07-31 22:59:01 -0400] [3140] [INFO] Reason: Worker failed to boot.
+[2023-07-31 23:01:41 -0400] [3507] [INFO] Starting gunicorn 20.1.0
+[2023-07-31 23:01:41 -0400] [3507] [INFO] Listening at: http://0.0.0.0:9696 (3507)
+[2023-07-31 23:01:41 -0400] [3507] [INFO] Using worker: sync
+[2023-07-31 23:01:41 -0400] [3509] [INFO] Booting worker with pid: 3509
+[2023-07-31 23:01:41 -0400] [3510] [INFO] Booting worker with pid: 3510
+[2023-07-31 23:01:41 -0400] [3511] [INFO] Booting worker with pid: 3511
+[2023-07-31 23:01:41 -0400] [3512] [INFO] Booting worker with pid: 3512
+[2023-07-31 23:02:52 -0400] [3507] [INFO] Handling signal: int
+[2023-07-31 23:02:52 -0400] [3509] [INFO] Worker exiting (pid: 3509)
+[2023-07-31 23:02:52 -0400] [3510] [INFO] Worker exiting (pid: 3510)
+[2023-07-31 23:02:52 -0400] [3511] [INFO] Worker exiting (pid: 3511)
+[2023-07-31 23:02:52 -0400] [3512] [INFO] Worker exiting (pid: 3512)
+[2023-07-31 23:02:53 -0400] [3507] [INFO] Shutting down: Master

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/a1a34b011124445d8a896a87e3e112dd/artifacts
+end_time: 1690687973856
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: a1a34b011124445d8a896a87e3e112dd
+run_name: learned-lark-490
+run_uuid: a1a34b011124445d8a896a87e3e112dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687970774
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

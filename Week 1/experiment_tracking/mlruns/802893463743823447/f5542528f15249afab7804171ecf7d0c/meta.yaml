@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/f5542528f15249afab7804171ecf7d0c/artifacts
+end_time: 1690687599772
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: f5542528f15249afab7804171ecf7d0c
+run_name: handsome-carp-247
+run_uuid: f5542528f15249afab7804171ecf7d0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687597050
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/0a69a89e453d4cd1a4a150b4070c2f4e/artifacts
+end_time: 1690687578227
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 0a69a89e453d4cd1a4a150b4070c2f4e
+run_name: traveling-pig-345
+run_uuid: 0a69a89e453d4cd1a4a150b4070c2f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687576374
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

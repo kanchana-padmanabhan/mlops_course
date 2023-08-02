@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1690686685895
+current_stage: None
+description: ''
+last_updated_timestamp: 1690686685895
+name: monthly_sales
+run_id: 8c040a338c4e48f89992b091ae5f46f5
+run_link: ''
+source: mlflow-artifacts:/802893463743823447/8c040a338c4e48f89992b091ae5f46f5/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 4

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/aeb8e44060d44d05948838bf0a444415/artifacts
+end_time: 1690688089831
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: aeb8e44060d44d05948838bf0a444415
+run_name: bemused-sponge-788
+run_uuid: aeb8e44060d44d05948838bf0a444415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688086006
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

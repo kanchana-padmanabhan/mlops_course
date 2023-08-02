@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/5ffbc1c2c14d467cbe53a8774ab92d51/artifacts
+end_time: 1690687592305
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 5ffbc1c2c14d467cbe53a8774ab92d51
+run_name: classy-ray-598
+run_uuid: 5ffbc1c2c14d467cbe53a8774ab92d51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687589784
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

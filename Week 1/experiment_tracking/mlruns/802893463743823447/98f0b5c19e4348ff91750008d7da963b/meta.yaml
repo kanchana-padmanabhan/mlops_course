@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/98f0b5c19e4348ff91750008d7da963b/artifacts
+end_time: 1690687559636
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 98f0b5c19e4348ff91750008d7da963b
+run_name: awesome-sow-528
+run_uuid: 98f0b5c19e4348ff91750008d7da963b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687557078
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

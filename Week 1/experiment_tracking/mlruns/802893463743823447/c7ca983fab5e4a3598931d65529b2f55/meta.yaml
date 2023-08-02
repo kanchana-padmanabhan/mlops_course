@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/c7ca983fab5e4a3598931d65529b2f55/artifacts
+end_time: 1690687970741
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: c7ca983fab5e4a3598931d65529b2f55
+run_name: selective-sheep-167
+run_uuid: c7ca983fab5e4a3598931d65529b2f55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687967573
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

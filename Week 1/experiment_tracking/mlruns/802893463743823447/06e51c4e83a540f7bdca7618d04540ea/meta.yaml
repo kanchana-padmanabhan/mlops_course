@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/06e51c4e83a540f7bdca7618d04540ea/artifacts
+end_time: 1690688103708
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 06e51c4e83a540f7bdca7618d04540ea
+run_name: popular-tern-722
+run_uuid: 06e51c4e83a540f7bdca7618d04540ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688099882
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

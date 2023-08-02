@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/90ded2f4d5b748b79fb9148475cd20cd/artifacts
+end_time: 1690687948970
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 90ded2f4d5b748b79fb9148475cd20cd
+run_name: big-boar-907
+run_uuid: 90ded2f4d5b748b79fb9148475cd20cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687946042
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

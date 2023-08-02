@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/640c4b44390d47a39c35c9040f9ad094/artifacts
+end_time: 1690687985367
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 640c4b44390d47a39c35c9040f9ad094
+run_name: rumbling-crow-535
+run_uuid: 640c4b44390d47a39c35c9040f9ad094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687982331
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

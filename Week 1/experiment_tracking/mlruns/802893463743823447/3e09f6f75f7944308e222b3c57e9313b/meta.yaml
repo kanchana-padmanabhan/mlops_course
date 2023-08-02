@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/3e09f6f75f7944308e222b3c57e9313b/artifacts
+end_time: 1690688072180
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 3e09f6f75f7944308e222b3c57e9313b
+run_name: gentle-gull-354
+run_uuid: 3e09f6f75f7944308e222b3c57e9313b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688068661
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

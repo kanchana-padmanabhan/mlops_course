@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/65fe18fc786c457f88784b5abcaa16be/artifacts
+end_time: 1690687537500
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 65fe18fc786c457f88784b5abcaa16be
+run_name: brawny-steed-75
+run_uuid: 65fe18fc786c457f88784b5abcaa16be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687535094
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

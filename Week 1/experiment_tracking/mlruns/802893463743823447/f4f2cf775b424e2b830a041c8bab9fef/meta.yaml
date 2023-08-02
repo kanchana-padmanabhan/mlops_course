@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/f4f2cf775b424e2b830a041c8bab9fef/artifacts
+end_time: 1690687955676
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: f4f2cf775b424e2b830a041c8bab9fef
+run_name: calm-midge-666
+run_uuid: f4f2cf775b424e2b830a041c8bab9fef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687951973
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/a801d2c85ecf49d5b72d344a7d8c9063/artifacts
+end_time: 1690688078660
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: a801d2c85ecf49d5b72d344a7d8c9063
+run_name: sneaky-moose-463
+run_uuid: a801d2c85ecf49d5b72d344a7d8c9063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688075615
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

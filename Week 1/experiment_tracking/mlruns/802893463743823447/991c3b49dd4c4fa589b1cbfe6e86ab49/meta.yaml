@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/991c3b49dd4c4fa589b1cbfe6e86ab49/artifacts
+end_time: 1690418790321
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 991c3b49dd4c4fa589b1cbfe6e86ab49
+run_name: rogue-wren-292
+run_uuid: 991c3b49dd4c4fa589b1cbfe6e86ab49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690418786576
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

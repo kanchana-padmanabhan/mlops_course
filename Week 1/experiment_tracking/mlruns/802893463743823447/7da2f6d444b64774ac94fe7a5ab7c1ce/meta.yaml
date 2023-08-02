@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/7da2f6d444b64774ac94fe7a5ab7c1ce/artifacts
+end_time: 1690687617757
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 7da2f6d444b64774ac94fe7a5ab7c1ce
+run_name: polite-finch-202
+run_uuid: 7da2f6d444b64774ac94fe7a5ab7c1ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687615175
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/6c38873ce7754e8686d46e2250c0d47d/artifacts
+end_time: 1690687837141
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 6c38873ce7754e8686d46e2250c0d47d
+run_name: vaunted-moose-857
+run_uuid: 6c38873ce7754e8686d46e2250c0d47d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687835337
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

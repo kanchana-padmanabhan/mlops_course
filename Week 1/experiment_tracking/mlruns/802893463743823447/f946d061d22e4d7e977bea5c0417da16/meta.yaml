@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/f946d061d22e4d7e977bea5c0417da16/artifacts
+end_time: 1690687608636
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: f946d061d22e4d7e977bea5c0417da16
+run_name: capable-turtle-885
+run_uuid: f946d061d22e4d7e977bea5c0417da16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687607186
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

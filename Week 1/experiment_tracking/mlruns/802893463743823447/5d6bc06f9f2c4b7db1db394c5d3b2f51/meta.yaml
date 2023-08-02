@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/5d6bc06f9f2c4b7db1db394c5d3b2f51/artifacts
+end_time: 1690687990509
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 5d6bc06f9f2c4b7db1db394c5d3b2f51
+run_name: thoughtful-worm-349
+run_uuid: 5d6bc06f9f2c4b7db1db394c5d3b2f51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687988689
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

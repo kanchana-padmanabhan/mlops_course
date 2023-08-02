@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1690632102736
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1690632111447
+name: monthly_sales
+run_id: 41f9548fecff41f182fb49fc92e69b03
+run_link: ''
+source: mlflow-artifacts:/802893463743823447/41f9548fecff41f182fb49fc92e69b03/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 3

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/94d50ed5975a4322ad36b1935afe54cc/artifacts
+end_time: 1690687519497
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 94d50ed5975a4322ad36b1935afe54cc
+run_name: luxuriant-cow-614
+run_uuid: 94d50ed5975a4322ad36b1935afe54cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687517174
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

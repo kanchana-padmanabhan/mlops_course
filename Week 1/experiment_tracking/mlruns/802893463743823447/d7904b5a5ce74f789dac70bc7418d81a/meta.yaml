@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/d7904b5a5ce74f789dac70bc7418d81a/artifacts
+end_time: 1690687445274
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: d7904b5a5ce74f789dac70bc7418d81a
+run_name: crawling-frog-968
+run_uuid: d7904b5a5ce74f789dac70bc7418d81a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687443238
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

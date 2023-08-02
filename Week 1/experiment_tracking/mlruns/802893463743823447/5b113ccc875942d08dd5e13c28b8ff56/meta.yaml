@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/5b113ccc875942d08dd5e13c28b8ff56/artifacts
+end_time: 1690688099847
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 5b113ccc875942d08dd5e13c28b8ff56
+run_name: blushing-snail-433
+run_uuid: 5b113ccc875942d08dd5e13c28b8ff56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688096673
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

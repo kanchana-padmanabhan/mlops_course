@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/15e92d4a0cc14d52b24faf75652e7720/artifacts
+end_time: 1690687828483
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 15e92d4a0cc14d52b24faf75652e7720
+run_name: silent-crane-925
+run_uuid: 15e92d4a0cc14d52b24faf75652e7720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687826418
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/3045bebe1fc046439d874d19d8c33d91/artifacts
+end_time: 1690687916812
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 3045bebe1fc046439d874d19d8c33d91
+run_name: lyrical-sloth-304
+run_uuid: 3045bebe1fc046439d874d19d8c33d91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687913504
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

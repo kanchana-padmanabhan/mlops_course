@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/51aa788260254c6b848ae38cf490a362/artifacts
+end_time: 1690687641404
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 51aa788260254c6b848ae38cf490a362
+run_name: tasteful-wolf-713
+run_uuid: 51aa788260254c6b848ae38cf490a362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687638248
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

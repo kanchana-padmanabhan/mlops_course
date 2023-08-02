@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/b8102ad7cb1c451e82d042bbf9bb0152/artifacts
+end_time: 1690687594943
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: b8102ad7cb1c451e82d042bbf9bb0152
+run_name: luxuriant-sponge-908
+run_uuid: b8102ad7cb1c451e82d042bbf9bb0152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687592337
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

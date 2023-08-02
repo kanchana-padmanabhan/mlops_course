@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/044c8d0af7e74e51b960acf0eb6b1e42/artifacts
+end_time: 1690687587529
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 044c8d0af7e74e51b960acf0eb6b1e42
+run_name: resilient-mare-722
+run_uuid: 044c8d0af7e74e51b960acf0eb6b1e42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687585110
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

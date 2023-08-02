@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/958bb36b9de2442794df108e00daf987/artifacts
+end_time: 1690687964409
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 958bb36b9de2442794df108e00daf987
+run_name: honorable-shoat-435
+run_uuid: 958bb36b9de2442794df108e00daf987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687961769
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/02d445af425d4a4b9fe9bc65f54e69dd/artifacts
+end_time: 1690687440612
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 02d445af425d4a4b9fe9bc65f54e69dd
+run_name: stately-croc-166
+run_uuid: 02d445af425d4a4b9fe9bc65f54e69dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687438697
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

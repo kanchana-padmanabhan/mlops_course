@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/476007a4344646c1975bae5baeec2914/artifacts
+end_time: 1690688128309
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 476007a4344646c1975bae5baeec2914
+run_name: gregarious-auk-851
+run_uuid: 476007a4344646c1975bae5baeec2914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688124999
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

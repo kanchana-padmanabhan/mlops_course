@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/fe4e78ef41814f25b6a611cb51f6113b/artifacts
+end_time: 1690687545436
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: fe4e78ef41814f25b6a611cb51f6113b
+run_name: unleashed-ram-519
+run_uuid: fe4e78ef41814f25b6a611cb51f6113b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687542624
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/9a2b086627ab4acd93e6f8b089e0781e/artifacts
+end_time: 1690688124963
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 9a2b086627ab4acd93e6f8b089e0781e
+run_name: flawless-penguin-32
+run_uuid: 9a2b086627ab4acd93e6f8b089e0781e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688121556
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

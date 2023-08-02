@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/e611d8dc052c4d05a3409dc2947a4f88/artifacts
+end_time: 1690687843531
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: e611d8dc052c4d05a3409dc2947a4f88
+run_name: gentle-bug-315
+run_uuid: e611d8dc052c4d05a3409dc2947a4f88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687841276
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

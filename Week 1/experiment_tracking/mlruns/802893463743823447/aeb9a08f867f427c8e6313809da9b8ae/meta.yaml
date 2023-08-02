@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/aeb9a08f867f427c8e6313809da9b8ae/artifacts
+end_time: 1690687881811
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: aeb9a08f867f427c8e6313809da9b8ae
+run_name: calm-cub-351
+run_uuid: aeb9a08f867f427c8e6313809da9b8ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687878982
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

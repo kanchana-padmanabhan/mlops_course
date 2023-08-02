@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/183281c5bd9b4a73b165c45cf0001d0e/artifacts
+end_time: 1690687635283
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 183281c5bd9b4a73b165c45cf0001d0e
+run_name: polite-gnu-877
+run_uuid: 183281c5bd9b4a73b165c45cf0001d0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687632617
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/a873ab6f36f64e6a8f20fb0ecbe9c52a/artifacts
+end_time: 1690687887737
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: a873ab6f36f64e6a8f20fb0ecbe9c52a
+run_name: bald-steed-629
+run_uuid: a873ab6f36f64e6a8f20fb0ecbe9c52a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687884729
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

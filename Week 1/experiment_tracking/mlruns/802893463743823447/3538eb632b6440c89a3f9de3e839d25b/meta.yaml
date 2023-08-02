@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/3538eb632b6440c89a3f9de3e839d25b/artifacts
+end_time: 1690687848039
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 3538eb632b6440c89a3f9de3e839d25b
+run_name: delightful-steed-918
+run_uuid: 3538eb632b6440c89a3f9de3e839d25b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687845165
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

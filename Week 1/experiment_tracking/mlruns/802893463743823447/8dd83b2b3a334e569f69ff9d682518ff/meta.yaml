@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/8dd83b2b3a334e569f69ff9d682518ff/artifacts
+end_time: 1690419838227
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 8dd83b2b3a334e569f69ff9d682518ff
+run_name: awesome-squirrel-708
+run_uuid: 8dd83b2b3a334e569f69ff9d682518ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690419835191
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

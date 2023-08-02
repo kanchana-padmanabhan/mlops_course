@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/26cfe25b49524c97b7bc393b89dfb03a/artifacts
+end_time: 1690687459163
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 26cfe25b49524c97b7bc393b89dfb03a
+run_name: treasured-sheep-750
+run_uuid: 26cfe25b49524c97b7bc393b89dfb03a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687456867
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

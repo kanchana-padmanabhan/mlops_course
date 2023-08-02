@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/06ae8517b71b46ed8e75e8cce6ad14c8/artifacts
+end_time: 1690687552055
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 06ae8517b71b46ed8e75e8cce6ad14c8
+run_name: magnificent-mole-68
+run_uuid: 06ae8517b71b46ed8e75e8cce6ad14c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687550074
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

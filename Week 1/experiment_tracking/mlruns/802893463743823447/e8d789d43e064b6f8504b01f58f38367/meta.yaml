@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/e8d789d43e064b6f8504b01f58f38367/artifacts
+end_time: 1690687982299
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: e8d789d43e064b6f8504b01f58f38367
+run_name: bold-ant-538
+run_uuid: e8d789d43e064b6f8504b01f58f38367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687979724
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

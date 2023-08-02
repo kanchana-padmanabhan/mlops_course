@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/af5f1d3f7031418698d21cd0a3308e88/artifacts
+end_time: 1690687629623
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: af5f1d3f7031418698d21cd0a3308e88
+run_name: casual-rat-855
+run_uuid: af5f1d3f7031418698d21cd0a3308e88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687627893
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

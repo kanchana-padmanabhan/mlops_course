@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/827667bfe5b840198756f38240492630/artifacts
+end_time: 1690687854243
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 827667bfe5b840198756f38240492630
+run_name: rumbling-sponge-355
+run_uuid: 827667bfe5b840198756f38240492630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687851199
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

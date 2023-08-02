@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/94460309f372461685736c078e2b1e98/artifacts
+end_time: 1690687505992
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 94460309f372461685736c078e2b1e98
+run_name: gregarious-toad-811
+run_uuid: 94460309f372461685736c078e2b1e98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687503844
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

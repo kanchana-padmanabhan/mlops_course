@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/cc9c30061f2248e686f9271c664ac493/artifacts
+end_time: 1690687521483
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: cc9c30061f2248e686f9271c664ac493
+run_name: amusing-lark-36
+run_uuid: cc9c30061f2248e686f9271c664ac493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687519526
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

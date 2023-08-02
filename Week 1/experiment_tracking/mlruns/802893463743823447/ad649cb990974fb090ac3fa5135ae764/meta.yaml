@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/ad649cb990974fb090ac3fa5135ae764/artifacts
+end_time: 1690687871087
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: ad649cb990974fb090ac3fa5135ae764
+run_name: stylish-conch-236
+run_uuid: ad649cb990974fb090ac3fa5135ae764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687868121
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

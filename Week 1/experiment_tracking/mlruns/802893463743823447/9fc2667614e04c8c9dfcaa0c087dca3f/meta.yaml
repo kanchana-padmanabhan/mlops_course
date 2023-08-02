@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/9fc2667614e04c8c9dfcaa0c087dca3f/artifacts
+end_time: 1690687655678
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 9fc2667614e04c8c9dfcaa0c087dca3f
+run_name: blushing-carp-73
+run_uuid: 9fc2667614e04c8c9dfcaa0c087dca3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687652840
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/bb33dbe42b754bfda7e5e38d129c1706/artifacts
+end_time: 1690687452792
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: bb33dbe42b754bfda7e5e38d129c1706
+run_name: merciful-dove-420
+run_uuid: bb33dbe42b754bfda7e5e38d129c1706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687450620
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

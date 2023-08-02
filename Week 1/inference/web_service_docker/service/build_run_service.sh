@@ -1,0 +1,2 @@
+docker build -t webservice_inference .
+docker run -it --network=mlops_bridge  -p 9696:9696 -e model_name=$model_name -e model_env=$model_env -e mlflow_tracking_url=$mlflow_tracking_url webservice_inference 

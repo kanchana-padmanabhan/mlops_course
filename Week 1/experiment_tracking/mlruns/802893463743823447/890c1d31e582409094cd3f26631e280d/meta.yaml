@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/890c1d31e582409094cd3f26631e280d/artifacts
+end_time: 1690687491317
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 890c1d31e582409094cd3f26631e280d
+run_name: stately-whale-802
+run_uuid: 890c1d31e582409094cd3f26631e280d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687487963
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

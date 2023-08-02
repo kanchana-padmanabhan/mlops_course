@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/07494cc72dea470fa62314888234a826/artifacts
+end_time: 1690687839156
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 07494cc72dea470fa62314888234a826
+run_name: auspicious-slug-465
+run_uuid: 07494cc72dea470fa62314888234a826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687837149
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

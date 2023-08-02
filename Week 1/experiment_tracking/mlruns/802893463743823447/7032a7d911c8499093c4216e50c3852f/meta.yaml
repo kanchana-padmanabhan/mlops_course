@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/7032a7d911c8499093c4216e50c3852f/artifacts
+end_time: 1690687571647
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 7032a7d911c8499093c4216e50c3852f
+run_name: amazing-snipe-726
+run_uuid: 7032a7d911c8499093c4216e50c3852f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687569308
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

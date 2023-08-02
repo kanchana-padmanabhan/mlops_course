@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/8a935dc3542c4bbd9c06166d489be6eb/artifacts
+end_time: 1690687461310
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 8a935dc3542c4bbd9c06166d489be6eb
+run_name: adventurous-ram-953
+run_uuid: 8a935dc3542c4bbd9c06166d489be6eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687459172
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

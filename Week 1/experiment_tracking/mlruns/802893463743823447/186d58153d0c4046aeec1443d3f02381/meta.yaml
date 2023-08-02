@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/186d58153d0c4046aeec1443d3f02381/artifacts
+end_time: 1690687671966
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 186d58153d0c4046aeec1443d3f02381
+run_name: legendary-robin-386
+run_uuid: 186d58153d0c4046aeec1443d3f02381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687668326
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

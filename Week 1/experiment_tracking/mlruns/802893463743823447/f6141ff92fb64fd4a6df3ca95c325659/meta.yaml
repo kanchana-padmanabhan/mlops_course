@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/f6141ff92fb64fd4a6df3ca95c325659/artifacts
+end_time: 1690687675681
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: f6141ff92fb64fd4a6df3ca95c325659
+run_name: funny-hen-472
+run_uuid: f6141ff92fb64fd4a6df3ca95c325659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687672002
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

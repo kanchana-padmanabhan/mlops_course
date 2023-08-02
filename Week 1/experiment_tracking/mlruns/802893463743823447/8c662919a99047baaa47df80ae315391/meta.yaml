@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/8c662919a99047baaa47df80ae315391/artifacts
+end_time: 1690687632584
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 8c662919a99047baaa47df80ae315391
+run_name: polite-carp-212
+run_uuid: 8c662919a99047baaa47df80ae315391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687629661
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

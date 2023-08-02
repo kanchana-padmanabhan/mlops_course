@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/ff55c38c9e4b4566b1d805267ea00caa/artifacts
+end_time: 1690687906769
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: ff55c38c9e4b4566b1d805267ea00caa
+run_name: sedate-crow-777
+run_uuid: ff55c38c9e4b4566b1d805267ea00caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687903822
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

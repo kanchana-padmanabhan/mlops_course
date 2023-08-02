@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/35e90a1b6b514fa49840ca3997ae12f9/artifacts
+end_time: 1690687585074
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 35e90a1b6b514fa49840ca3997ae12f9
+run_name: delightful-horse-167
+run_uuid: 35e90a1b6b514fa49840ca3997ae12f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687582906
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

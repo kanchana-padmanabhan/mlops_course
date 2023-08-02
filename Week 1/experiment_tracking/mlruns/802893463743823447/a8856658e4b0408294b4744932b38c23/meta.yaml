@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/a8856658e4b0408294b4744932b38c23/artifacts
+end_time: 1690688061563
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: a8856658e4b0408294b4744932b38c23
+run_name: able-sow-752
+run_uuid: a8856658e4b0408294b4744932b38c23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688057860
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

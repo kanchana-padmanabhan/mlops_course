@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/1205ac283c5c4a479c1979a8d8c35f88/artifacts
+end_time: 1690687638214
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 1205ac283c5c4a479c1979a8d8c35f88
+run_name: bustling-mare-569
+run_uuid: 1205ac283c5c4a479c1979a8d8c35f88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687635317
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

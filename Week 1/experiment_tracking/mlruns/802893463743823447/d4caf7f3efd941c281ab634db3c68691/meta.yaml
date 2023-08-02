@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/d4caf7f3efd941c281ab634db3c68691/artifacts
+end_time: 1690632057856
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: d4caf7f3efd941c281ab634db3c68691
+run_name: secretive-mare-964
+run_uuid: d4caf7f3efd941c281ab634db3c68691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690632055819
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

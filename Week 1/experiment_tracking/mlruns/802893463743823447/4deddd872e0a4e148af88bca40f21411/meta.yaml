@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/4deddd872e0a4e148af88bca40f21411/artifacts
+end_time: 1690688007024
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 4deddd872e0a4e148af88bca40f21411
+run_name: wistful-donkey-864
+run_uuid: 4deddd872e0a4e148af88bca40f21411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688003925
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

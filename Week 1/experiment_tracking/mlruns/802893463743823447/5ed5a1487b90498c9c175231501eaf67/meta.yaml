@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/5ed5a1487b90498c9c175231501eaf67/artifacts
+end_time: 1690419788839
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 5ed5a1487b90498c9c175231501eaf67
+run_name: luxuriant-turtle-396
+run_uuid: 5ed5a1487b90498c9c175231501eaf67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690419787155
+status: 4
+tags: []
+user_id: kanchanapadmanabhan

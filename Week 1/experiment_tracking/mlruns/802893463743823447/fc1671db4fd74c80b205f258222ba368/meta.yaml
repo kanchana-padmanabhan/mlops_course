@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/fc1671db4fd74c80b205f258222ba368/artifacts
+end_time: 1690687979683
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: fc1671db4fd74c80b205f258222ba368
+run_name: rare-elk-529
+run_uuid: fc1671db4fd74c80b205f258222ba368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687976926
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

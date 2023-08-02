@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/4ad62c0df04a4638bcd33fb12f6bc8d0/artifacts
+end_time: 1690687686947
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 4ad62c0df04a4638bcd33fb12f6bc8d0
+run_name: adorable-crow-932
+run_uuid: 4ad62c0df04a4638bcd33fb12f6bc8d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687683224
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

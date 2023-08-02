@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/fd99967fa23748f888bd64474e796874/artifacts
+end_time: 1690687564238
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: fd99967fa23748f888bd64474e796874
+run_name: adaptable-panda-288
+run_uuid: fd99967fa23748f888bd64474e796874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687561693
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

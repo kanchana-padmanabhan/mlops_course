@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/dce39ebf8b96470abdf88b28809c1066/artifacts
+end_time: 1690687967540
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: dce39ebf8b96470abdf88b28809c1066
+run_name: aged-vole-655
+run_uuid: dce39ebf8b96470abdf88b28809c1066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687964441
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

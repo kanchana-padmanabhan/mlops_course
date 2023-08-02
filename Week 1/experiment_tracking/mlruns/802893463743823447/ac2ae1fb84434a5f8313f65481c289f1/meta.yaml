@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/ac2ae1fb84434a5f8313f65481c289f1/artifacts
+end_time: 1690687876578
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: ac2ae1fb84434a5f8313f65481c289f1
+run_name: angry-bee-45
+run_uuid: ac2ae1fb84434a5f8313f65481c289f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687873136
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

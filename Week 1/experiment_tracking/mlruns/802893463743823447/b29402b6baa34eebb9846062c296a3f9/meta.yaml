@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/b29402b6baa34eebb9846062c296a3f9/artifacts
+end_time: 1690687517141
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: b29402b6baa34eebb9846062c296a3f9
+run_name: fun-flea-519
+run_uuid: b29402b6baa34eebb9846062c296a3f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687515333
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

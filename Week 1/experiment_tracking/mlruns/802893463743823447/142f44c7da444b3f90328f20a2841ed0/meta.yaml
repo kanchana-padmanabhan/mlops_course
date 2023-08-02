@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/142f44c7da444b3f90328f20a2841ed0/artifacts
+end_time: 1690687604659
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 142f44c7da444b3f90328f20a2841ed0
+run_name: suave-ant-423
+run_uuid: 142f44c7da444b3f90328f20a2841ed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687602034
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

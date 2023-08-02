@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/69f2123abf0547579e65074188845ddd/artifacts
+end_time: 1690687683184
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 69f2123abf0547579e65074188845ddd
+run_name: selective-fowl-669
+run_uuid: 69f2123abf0547579e65074188845ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687679402
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

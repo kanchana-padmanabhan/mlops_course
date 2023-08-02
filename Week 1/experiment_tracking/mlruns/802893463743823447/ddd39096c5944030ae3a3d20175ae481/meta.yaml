@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/ddd39096c5944030ae3a3d20175ae481/artifacts
+end_time: 1690687547744
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: ddd39096c5944030ae3a3d20175ae481
+run_name: orderly-cat-533
+run_uuid: ddd39096c5944030ae3a3d20175ae481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687545474
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

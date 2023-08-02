@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/d82fdd75c8e84ff7a40108d395001722/artifacts
+end_time: 1690632069318
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: d82fdd75c8e84ff7a40108d395001722
+run_name: amusing-eel-491
+run_uuid: d82fdd75c8e84ff7a40108d395001722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690632067608
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

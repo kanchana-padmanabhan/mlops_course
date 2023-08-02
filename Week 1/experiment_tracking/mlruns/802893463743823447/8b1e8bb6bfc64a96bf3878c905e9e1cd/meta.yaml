@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/8b1e8bb6bfc64a96bf3878c905e9e1cd/artifacts
+end_time: 1690687899930
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 8b1e8bb6bfc64a96bf3878c905e9e1cd
+run_name: debonair-bird-782
+run_uuid: 8b1e8bb6bfc64a96bf3878c905e9e1cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687896510
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

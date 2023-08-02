@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/84007fd1a1234902837ef37f65f46319/artifacts
+end_time: 1690687498706
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 84007fd1a1234902837ef37f65f46319
+run_name: calm-pug-314
+run_uuid: 84007fd1a1234902837ef37f65f46319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687496336
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

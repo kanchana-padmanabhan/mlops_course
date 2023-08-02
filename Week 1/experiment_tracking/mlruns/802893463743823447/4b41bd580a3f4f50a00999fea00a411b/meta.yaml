@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/4b41bd580a3f4f50a00999fea00a411b/artifacts
+end_time: 1690687542593
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 4b41bd580a3f4f50a00999fea00a411b
+run_name: traveling-fish-843
+run_uuid: 4b41bd580a3f4f50a00999fea00a411b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687540030
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

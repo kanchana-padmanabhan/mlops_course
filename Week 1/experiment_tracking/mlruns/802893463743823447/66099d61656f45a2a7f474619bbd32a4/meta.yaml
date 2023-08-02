@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/66099d61656f45a2a7f474619bbd32a4/artifacts
+end_time: 1690687841268
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 66099d61656f45a2a7f474619bbd32a4
+run_name: gentle-flea-877
+run_uuid: 66099d61656f45a2a7f474619bbd32a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687839165
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

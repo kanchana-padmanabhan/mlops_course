@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/33118734e4e24108a4cf721de2d09dca/artifacts
+end_time: 1690687535063
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 33118734e4e24108a4cf721de2d09dca
+run_name: fortunate-mule-92
+run_uuid: 33118734e4e24108a4cf721de2d09dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687532692
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

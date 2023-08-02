@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/e82f3b3d19ab46b88dedba7aa2503678/artifacts
+end_time: 1690688038116
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: e82f3b3d19ab46b88dedba7aa2503678
+run_name: youthful-finch-639
+run_uuid: e82f3b3d19ab46b88dedba7aa2503678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688034850
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

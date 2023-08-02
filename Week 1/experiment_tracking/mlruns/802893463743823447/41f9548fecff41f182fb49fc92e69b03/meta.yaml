@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/41f9548fecff41f182fb49fc92e69b03/artifacts
+end_time: 1690632079826
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 41f9548fecff41f182fb49fc92e69b03
+run_name: luminous-hog-49
+run_uuid: 41f9548fecff41f182fb49fc92e69b03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690632078189
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

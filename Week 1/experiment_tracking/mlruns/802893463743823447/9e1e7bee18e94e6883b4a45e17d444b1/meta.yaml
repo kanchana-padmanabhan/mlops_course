@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/9e1e7bee18e94e6883b4a45e17d444b1/artifacts
+end_time: 1690687580946
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 9e1e7bee18e94e6883b4a45e17d444b1
+run_name: dapper-penguin-287
+run_uuid: 9e1e7bee18e94e6883b4a45e17d444b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687578259
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

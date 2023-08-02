@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/e9ed3736e14e4262a123c6fe66bf2733/artifacts
+end_time: 1690687936939
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: e9ed3736e14e4262a123c6fe66bf2733
+run_name: awesome-fly-980
+run_uuid: e9ed3736e14e4262a123c6fe66bf2733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687933168
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

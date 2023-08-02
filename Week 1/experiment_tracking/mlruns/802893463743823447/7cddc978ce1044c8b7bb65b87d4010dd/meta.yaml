@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/7cddc978ce1044c8b7bb65b87d4010dd/artifacts
+end_time: 1690688117995
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 7cddc978ce1044c8b7bb65b87d4010dd
+run_name: flawless-moose-815
+run_uuid: 7cddc978ce1044c8b7bb65b87d4010dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688114949
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

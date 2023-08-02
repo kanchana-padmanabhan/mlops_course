@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/079350db5f9d4c49accea0ebcf2c76da/artifacts
+end_time: 1690687833216
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 079350db5f9d4c49accea0ebcf2c76da
+run_name: traveling-ox-619
+run_uuid: 079350db5f9d4c49accea0ebcf2c76da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687831366
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

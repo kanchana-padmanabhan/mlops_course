@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/5fe6a13172b348fbba9f6a21219b43ed/artifacts
+end_time: 1690688003892
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 5fe6a13172b348fbba9f6a21219b43ed
+run_name: thundering-dove-706
+run_uuid: 5fe6a13172b348fbba9f6a21219b43ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688000965
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

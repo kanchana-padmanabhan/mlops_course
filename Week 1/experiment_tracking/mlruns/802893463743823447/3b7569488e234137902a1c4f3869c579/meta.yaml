@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/3b7569488e234137902a1c4f3869c579/artifacts
+end_time: 1690687512889
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 3b7569488e234137902a1c4f3869c579
+run_name: gregarious-ray-456
+run_uuid: 3b7569488e234137902a1c4f3869c579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687510867
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

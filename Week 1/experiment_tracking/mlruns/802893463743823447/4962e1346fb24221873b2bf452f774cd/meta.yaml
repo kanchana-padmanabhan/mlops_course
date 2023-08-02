@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/4962e1346fb24221873b2bf452f774cd/artifacts
+end_time: 1690687569276
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 4962e1346fb24221873b2bf452f774cd
+run_name: nervous-midge-16
+run_uuid: 4962e1346fb24221873b2bf452f774cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687566647
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

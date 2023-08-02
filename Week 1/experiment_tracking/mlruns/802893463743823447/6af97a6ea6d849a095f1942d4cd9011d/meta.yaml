@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/6af97a6ea6d849a095f1942d4cd9011d/artifacts
+end_time: 1690687878954
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 6af97a6ea6d849a095f1942d4cd9011d
+run_name: bemused-duck-787
+run_uuid: 6af97a6ea6d849a095f1942d4cd9011d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687876609
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

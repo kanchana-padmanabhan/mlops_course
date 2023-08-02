@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/ff2d022fc0d7490ebd8862880743e4b0/artifacts
+end_time: 1690687539999
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: ff2d022fc0d7490ebd8862880743e4b0
+run_name: upbeat-toad-792
+run_uuid: ff2d022fc0d7490ebd8862880743e4b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687537531
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

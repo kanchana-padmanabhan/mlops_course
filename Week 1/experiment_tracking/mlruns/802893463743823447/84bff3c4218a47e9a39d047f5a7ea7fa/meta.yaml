@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/84bff3c4218a47e9a39d047f5a7ea7fa/artifacts
+end_time: 1690687597015
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 84bff3c4218a47e9a39d047f5a7ea7fa
+run_name: agreeable-chimp-986
+run_uuid: 84bff3c4218a47e9a39d047f5a7ea7fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687594976
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

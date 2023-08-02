@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/b5c2d6b09c64407f88da09628a15aee3/artifacts
+end_time: 1690687619981
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: b5c2d6b09c64407f88da09628a15aee3
+run_name: sincere-smelt-358
+run_uuid: b5c2d6b09c64407f88da09628a15aee3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687617790
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

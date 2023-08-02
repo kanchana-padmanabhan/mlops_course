@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/36c5497d863c4415ae6c7982e82d33d4/artifacts
+end_time: 1690688057825
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 36c5497d863c4415ae6c7982e82d33d4
+run_name: clumsy-whale-995
+run_uuid: 36c5497d863c4415ae6c7982e82d33d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688054531
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

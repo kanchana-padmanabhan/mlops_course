@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/f95e20284dfb45fea1553d37d7f84428/artifacts
+end_time: 1690687690950
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: f95e20284dfb45fea1553d37d7f84428
+run_name: blushing-bird-91
+run_uuid: f95e20284dfb45fea1553d37d7f84428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687686983
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

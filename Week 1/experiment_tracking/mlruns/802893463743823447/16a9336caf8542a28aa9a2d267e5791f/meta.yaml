@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/16a9336caf8542a28aa9a2d267e5791f/artifacts
+end_time: 1690687487933
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 16a9336caf8542a28aa9a2d267e5791f
+run_name: beautiful-lark-397
+run_uuid: 16a9336caf8542a28aa9a2d267e5791f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687485305
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

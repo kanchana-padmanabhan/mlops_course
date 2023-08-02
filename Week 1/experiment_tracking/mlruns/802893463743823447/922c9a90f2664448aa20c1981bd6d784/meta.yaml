@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/922c9a90f2664448aa20c1981bd6d784/artifacts
+end_time: 1690687652804
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 922c9a90f2664448aa20c1981bd6d784
+run_name: clumsy-quail-45
+run_uuid: 922c9a90f2664448aa20c1981bd6d784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687649833
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

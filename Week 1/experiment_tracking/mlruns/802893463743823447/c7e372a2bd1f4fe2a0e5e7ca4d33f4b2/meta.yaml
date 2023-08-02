@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/c7e372a2bd1f4fe2a0e5e7ca4d33f4b2/artifacts
+end_time: 1690687679366
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: c7e372a2bd1f4fe2a0e5e7ca4d33f4b2
+run_name: omniscient-tern-502
+run_uuid: c7e372a2bd1f4fe2a0e5e7ca4d33f4b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687675717
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/2502c72edae34dd4938d429d7a269b79/artifacts
+end_time: 1690687576343
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 2502c72edae34dd4938d429d7a269b79
+run_name: sincere-chimp-618
+run_uuid: 2502c72edae34dd4938d429d7a269b79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687573870
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

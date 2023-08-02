@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/c836e9015e764761a753cc200a150fc7/artifacts
+end_time: 1690687526208
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: c836e9015e764761a753cc200a150fc7
+run_name: wise-worm-115
+run_uuid: c836e9015e764761a753cc200a150fc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687524078
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

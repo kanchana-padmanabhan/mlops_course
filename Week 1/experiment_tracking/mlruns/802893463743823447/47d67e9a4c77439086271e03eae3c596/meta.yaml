@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/47d67e9a4c77439086271e03eae3c596/artifacts
+end_time: 1690687270322
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 47d67e9a4c77439086271e03eae3c596
+run_name: whimsical-fish-799
+run_uuid: 47d67e9a4c77439086271e03eae3c596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687268471
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

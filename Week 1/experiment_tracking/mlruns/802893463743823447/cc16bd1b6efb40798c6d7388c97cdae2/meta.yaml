@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/cc16bd1b6efb40798c6d7388c97cdae2/artifacts
+end_time: 1690687896480
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: cc16bd1b6efb40798c6d7388c97cdae2
+run_name: flawless-jay-382
+run_uuid: cc16bd1b6efb40798c6d7388c97cdae2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687893265
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/f98a5f6f5b5a45deb257201ed049d28c/artifacts
+end_time: 1690687873107
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: f98a5f6f5b5a45deb257201ed049d28c
+run_name: sneaky-moth-327
+run_uuid: f98a5f6f5b5a45deb257201ed049d28c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687871119
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

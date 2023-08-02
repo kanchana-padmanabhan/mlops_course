@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/c5be135c54824409974e63f14fdc074e/artifacts
+end_time: 1690687272497
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: c5be135c54824409974e63f14fdc074e
+run_name: rogue-mare-776
+run_uuid: c5be135c54824409974e63f14fdc074e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687270330
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

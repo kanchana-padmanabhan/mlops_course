@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/69bd37ae6b0e46edaf158e1be88f330a/artifacts
+end_time: 1690687214658
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 69bd37ae6b0e46edaf158e1be88f330a
+run_name: resilient-stag-473
+run_uuid: 69bd37ae6b0e46edaf158e1be88f330a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687211557
+status: 4
+tags: []
+user_id: kanchanapadmanabhan

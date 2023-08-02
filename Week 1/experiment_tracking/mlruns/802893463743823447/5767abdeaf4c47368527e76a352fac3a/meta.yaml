@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/5767abdeaf4c47368527e76a352fac3a/artifacts
+end_time: 1690687913473
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 5767abdeaf4c47368527e76a352fac3a
+run_name: secretive-stork-697
+run_uuid: 5767abdeaf4c47368527e76a352fac3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687910255
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

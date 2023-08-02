@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/f9d3a452754c4fcb878c5c5e741c5cd9/artifacts
+end_time: 1690687930539
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: f9d3a452754c4fcb878c5c5e741c5cd9
+run_name: industrious-bird-964
+run_uuid: f9d3a452754c4fcb878c5c5e741c5cd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687927066
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

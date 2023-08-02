@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/b274a56e125549c78b1222bc109eff0f/artifacts
+end_time: 1690688107426
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: b274a56e125549c78b1222bc109eff0f
+run_name: melodic-dolphin-268
+run_uuid: b274a56e125549c78b1222bc109eff0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690688103743
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

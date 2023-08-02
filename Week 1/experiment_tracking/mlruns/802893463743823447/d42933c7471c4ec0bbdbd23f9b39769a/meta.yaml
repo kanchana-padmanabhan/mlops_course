@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/d42933c7471c4ec0bbdbd23f9b39769a/artifacts
+end_time: 1690420066108
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: d42933c7471c4ec0bbdbd23f9b39769a
+run_name: beautiful-crane-360
+run_uuid: d42933c7471c4ec0bbdbd23f9b39769a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690420063936
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

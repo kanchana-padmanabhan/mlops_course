@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/8ea2cf260c89491b8d4d37154c140427/artifacts
+end_time: 1690687939354
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 8ea2cf260c89491b8d4d37154c140427
+run_name: funny-sloth-199
+run_uuid: 8ea2cf260c89491b8d4d37154c140427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687936977
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

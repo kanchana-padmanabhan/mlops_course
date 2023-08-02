@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/4ea2e96808e74cb587ec338c3fd9a9f0/artifacts
+end_time: 1690687622559
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 4ea2e96808e74cb587ec338c3fd9a9f0
+run_name: handsome-hawk-407
+run_uuid: 4ea2e96808e74cb587ec338c3fd9a9f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687620018
+status: 3
+tags: []
+user_id: kanchanapadmanabhan

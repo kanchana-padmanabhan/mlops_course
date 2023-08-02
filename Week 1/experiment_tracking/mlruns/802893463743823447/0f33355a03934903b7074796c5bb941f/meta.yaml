@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802893463743823447/0f33355a03934903b7074796c5bb941f/artifacts
+end_time: 1690687988649
+entry_point_name: ''
+experiment_id: '802893463743823447'
+lifecycle_stage: active
+run_id: 0f33355a03934903b7074796c5bb941f
+run_name: beautiful-smelt-373
+run_uuid: 0f33355a03934903b7074796c5bb941f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690687985401
+status: 3
+tags: []
+user_id: kanchanapadmanabhan
