@@ -1,0 +1,1 @@
+*/2 * * * * sh  "/Users/kanchanapadmanabhan/OneDrive/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/inference/batch_job/run_batch.sh" >> "/Users/kanchanapadmanabhan/OneDrive/Personal-Course/Vector/Model Deployment/mlops_course/Week 1/inference/batch_job/logfile.log" 2>&1
