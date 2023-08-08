@@ -35,7 +35,8 @@ pip install -r requirements.txt
 nohup jupyter notebook &
 
 #### Start mlflow (Two ways)
-mlflow server (see docs to specify backends if needed)
+mlflow server 
+(see docs to specify backends if needed - https://mlflow.org/docs/latest/cli.html)
 mlflow ui (good for local build)
 
 
