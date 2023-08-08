@@ -12,6 +12,11 @@ source venv/bin/activate
 #### Teardown virtual env
 deactivate
 
+#### Env variables
+
+Provide some defaults in env_variables.sh
+source env_variables.sh (to set up variables in your env)
+
 #### Install MySQL database
 https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/macos-installation-notes.html
 
@@ -28,6 +33,12 @@ pip install -r requirements.txt
 
 #### Run jupyter
 nohup jupyter notebook &
+
+#### Start mlflow (Two ways)
+mlflow server (see docs to specify backends if needed)
+mlflow ui (good for local build)
+
+
 
 
 #### Useful debugging links
