@@ -1,4 +1,10 @@
 ### Set up log files for gunicorn
 
-gunicorn -w 4 --bind 0.0.0.0:9696 --access-logfile monthly_sales_gunicorn_access.log --error-logfile monthly_sales_gunicorn_error.log  --log-level INFO notebooks.WebService_Endpoint:app
+on MAC:
+git clone git@github.com:statsd/statsd.git
 
+Use the updates Dockerfile and consoleConfig.js
+
+run the build_run_statsd.sh
+
+gunicorn -w 4 --bind 0.0.0.0:9696 --access-logfile monthly_sales_gunicorn_access.log --error-logfile monthly_sales_gunicorn_error.log  --log-level INFO --statsd-host=localhost:8125 --statsd-prefix=monthly_sales.app WebService_Endpoint:app
