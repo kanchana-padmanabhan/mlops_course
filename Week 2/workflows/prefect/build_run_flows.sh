@@ -1,1 +1,0 @@
-docker build -t training_flow .

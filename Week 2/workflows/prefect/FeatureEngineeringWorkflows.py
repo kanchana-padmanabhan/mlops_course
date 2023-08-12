@@ -7,7 +7,7 @@ import pickle
 
 import pandas as pd
 import numpy as np
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, text as sql_text
 import pymysql
 from prefect import flow, task, get_run_logger
 from utils import fourier_terms, load_config
@@ -20,7 +20,6 @@ from config import settings
 
 @task
 def get_db_connection(mysql_con_string, database_name):
-    # sqlEngine       = create_engine('mysql+pymysql://application:passpass@127.0.0.1/retail_data', pool_recycle=3600)
     sqlEngine       = create_engine(mysql_con_string + '/' + database_name, pool_recycle=3600)
     dbConnection    = sqlEngine.connect()
     return dbConnection
@@ -31,19 +30,19 @@ def close_db_connection(con):
 
 @task(cache_key_fn=task_input_hash, cache_expiration=timedelta(days=1), retries=1)
 def calculate_store_date_features(db_connection):
-    features_df  = pd.read_sql("select * from retail_dataset_kaggle.store_date_month_agg", db_connection)
+    features_df  = pd.read_sql(sql_text("select * from retail_dataset_kaggle.store_date_month_agg"), db_connection)
     return features_df
 
 
 @task(cache_key_fn=task_input_hash, cache_expiration=timedelta(days=1), retries=1)
 def calculate_sales_features(db_connection):
-    sales_df =  pd.read_sql("select * from retail_dataset_kaggle.sales_monthly_agg", db_connection)
+    sales_df =  pd.read_sql(sql_text("select * from retail_dataset_kaggle.sales_monthly_agg"), db_connection)
     return sales_df
 
 
 @task(cache_key_fn=task_input_hash, cache_expiration=timedelta(days=1), retries=1)
 def calculate_store_features(db_connection):
-    stores_df = pd.read_sql("select * from retail_dataset_kaggle.store", db_connection)
+    stores_df = pd.read_sql(sql_text("select * from retail_dataset_kaggle.store"), db_connection)
     return stores_df
 
 
