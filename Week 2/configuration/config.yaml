@@ -1,0 +1,6 @@
+connection_string: mysql+pymysql://application:passpass@127.0.0.1
+database: retail_dataset_kaggle
+train_end_date: 2011-12
+mlflow_url: http://127.0.0.1:5000
+experiment_name: my-experiment
+prefix: model_

@@ -1,0 +1,5 @@
+scrape_configs:
+  - job_name: 'helloworld_gunicorn'
+    scrape_interval: 5s
+    static_configs:
+      - targets: ['172.22.0.2:9102']
