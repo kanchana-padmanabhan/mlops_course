@@ -39,7 +39,7 @@ export VAULT_ROOT_TOKEN_FOR_DYNACONF="myroot"
 dynaconf -i config.settings write vault -s connection_string=mysql+pymysql://application:passpass@127.0.0.1 -e default
 ```
 
-### Add secrets via UI
+#### Add secrets via UI
 Go to http://localhost:8200 and login with "Token" -> "myroot"
 You can add secrets via UI screen. 
 
