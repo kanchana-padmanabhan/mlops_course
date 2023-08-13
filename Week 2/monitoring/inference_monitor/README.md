@@ -8,7 +8,7 @@
 
 ### Create a Docker Network for all services
 
-```docker network create -d bridge statsd   ```
+```docker network create -d bridge statsd ```
 
 ### StatsD Exporter (https://hub.docker.com/r/prom/statsd-exporter)
 
@@ -28,13 +28,15 @@ docker run -d \
 
 ### Prometheus (https://hub.docker.com/r/prom/prometheus)
 
-Extract IP of statsd container and update prometheus.yml
+Extract IP of statsd-exporter container and update prometheus.yml
 
-```docker run -d \
+```
+docker run -d \
     --network=statsd \
     -p 9090:9090 \
     -v ${PWD}/prometheus.yml:/etc/prometheus/prometheus.yml \
-    prom/prometheus```
+    prom/prometheus
+```
 
 
 ### Grafana
@@ -51,7 +53,8 @@ Start Gunicorn server with command in ```gunicorn_stats_prom.sh``` (in the folde
 Run following command to generate lots of requests
 
 
-```for i in $(seq 500); do
+```
+for i in $(seq 500); do
     curl --location 'localhost:9696/predict' \
     --header 'Content-Type: application/json' \
     --data '{
@@ -71,9 +74,10 @@ Run following command to generate lots of requests
         "Dept": 7
     }'
     sleep $((RANDOM % 5))
-done```
+done
+```
 
-View all metrics on Grafana!!
+**View all metrics on Grafana!!**
 
 ### Notes:
 
