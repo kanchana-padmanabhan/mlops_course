@@ -24,6 +24,7 @@ pip install 'dynaconf[vault]
 
 #### Export the following environment variables
 
+```
 export VAULT_ENABLED_FOR_DYNACONF=true
 export VAULT_URL_FOR_DYNACONF="http://localhost:8200"
 \# Specify the secrets engine for kv, default is 1
@@ -32,7 +33,7 @@ export VAULT_KV_VERSION_FOR_DYNACONF=1
 export VAULT_TOKEN_FOR_DYNACONF="myroot"
 \# Authenticate with root token
 export VAULT_ROOT_TOKEN_FOR_DYNACONF="myroot"
-
+```
 
 #### Add secrets to vault using commandline
 ```
