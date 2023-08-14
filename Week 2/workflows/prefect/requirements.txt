@@ -1,0 +1,11 @@
+jupyter
+prefect
+pandas
+numpy
+mlflow
+xgboost
+sqlalchemy
+pymysql
+scikit-learn
+pyyaml
+dynaconf

@@ -1,0 +1,16 @@
+jupyter
+prefect
+pandas
+numpy
+mlflow
+xgboost
+sqlalchemy
+pymysql
+scikit-learn
+pyyaml
+dynaconf
+flytekit
+flytekitplugins-deck-standard
+scikit-learn
+flytekitplugins-mlflow
+flytekitplugins-sqlalchemy
