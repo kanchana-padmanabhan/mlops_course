@@ -1,2 +1,12 @@
 pyspark
 jupyter
+evidently
+xgboost
+pandas
+scikit-learn
+sqlalchemy
+pymysql
+numpy
+jupyter
+jupyter_contrib_nbextensions
+

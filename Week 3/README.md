@@ -146,22 +146,6 @@ curl -X POST -H "Content-Type: application/json" -d '{
 ```minikube image rm image_id```
 
 
-## References
-* https://towardsdatascience.com/a-beginner-friendly-introduction-to-kubernetes-540b5d63b3d7
-* https://medium.com/avmconsulting-blog/running-a-python-application-on-kubernetes-aws-56609e7cd88c
-* https://blog.devgenius.io/unleash-your-pipeline-creativity-local-development-with-argo-workflows-and-minio-on-minikube-7537642b7b1d
-* https://cloud.google.com/blog/products/databases/to-run-or-not-to-run-a-database-on-kubernetes-what-to-consider
-* https://levelup.gitconnected.com/two-easy-ways-to-use-local-docker-images-in-minikube-cd4dcb1a5379
-* https://testdriven.io/blog/running-flask-on-kubernetes/
-* https://github.com/kubernetes/minikube/issues/16176
-* https://stackoverflow.com/questions/65397050/minikube-does-not-start-on-ubuntu-20-04-lts-exiting-due-to-guest-provision
-*https://blog.devgenius.io/unleash-your-pipeline-creativity-local-development-with-argo-workflows-and-minio-on-minikube-7537642b7b1d
-* https://medium.com/@mehmetodabashi/installing-argocd-on-minikube-and-deploying-a-test-application-caa68ec55fbf
-* https://blog.devgenius.io/unleash-your-pipeline-creativity-local-development-with-argo-workflows-and-minio-on-minikube-7537642b7b1d
-
-
-
-
 
 # Set up and Run Spark
 
@@ -178,4 +162,27 @@ export PATH=$SPARK_HOME/bin:$PATH
 ## Test the jupyter notebooks under **spark** folder
 
 
+
+# Monitoring data and models
+###  Install requirements
+```pip install -r requirements.txt```
+### Sample notebooks unde model data monitoring for Reports and Tests
+### Sample Moniting
+```evidently ui --demo-project```
+### Monitoring results from notebok
+* Run ```evidently ui ```
+* Click on "New Project"
+
+## References
+* https://towardsdatascience.com/a-beginner-friendly-introduction-to-kubernetes-540b5d63b3d7
+* https://medium.com/avmconsulting-blog/running-a-python-application-on-kubernetes-aws-56609e7cd88c
+* https://blog.devgenius.io/unleash-your-pipeline-creativity-local-development-with-argo-workflows-and-minio-on-minikube-7537642b7b1d
+* https://cloud.google.com/blog/products/databases/to-run-or-not-to-run-a-database-on-kubernetes-what-to-consider
+* https://levelup.gitconnected.com/two-easy-ways-to-use-local-docker-images-in-minikube-cd4dcb1a5379
+* https://testdriven.io/blog/running-flask-on-kubernetes/
+* https://github.com/kubernetes/minikube/issues/16176
+* https://stackoverflow.com/questions/65397050/minikube-does-not-start-on-ubuntu-20-04-lts-exiting-due-to-guest-provision
+*https://blog.devgenius.io/unleash-your-pipeline-creativity-local-development-with-argo-workflows-and-minio-on-minikube-7537642b7b1d
+* https://medium.com/@mehmetodabashi/installing-argocd-on-minikube-and-deploying-a-test-application-caa68ec55fbf
+* https://medium.com/mlearning-ai/easy-analysis-of-your-data-and-ml-model-using-evidently-ai-830ef0c1c4fd
 
