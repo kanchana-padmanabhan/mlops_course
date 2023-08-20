@@ -1,0 +1,57 @@
+# Deploys a new MinIO Pod into the metadata.namespace Kubernetes namespace
+#
+# The `spec.containers[0].args` contains the command run on the pod
+# The `/data` directory corresponds to the `spec.containers[0].volumeMounts[0].mountPath`
+# That mount path corresponds to a Kubernetes HostPath which binds `/data` to a local drive or volume on the worker node where the pod runs
+# 
+apiVersion: v1
+kind: Pod
+metadata:
+  labels:
+    app: minio
+  name: minio
+  namespace: argo # Change this value to match the namespace metadata.name
+spec:
+  containers:
+  - name: minio
+    image: quay.io/minio/minio:RELEASE.2023-04-07T05-28-58Z
+    command:
+    - /bin/bash
+    - -c
+    args: 
+    - minio server /data --console-address :9001
+    volumeMounts:
+    - mountPath: /data
+      name: localvolume # Corresponds to the `spec.volumes` Persistent Volume
+    ports:
+      - containerPort: 9000
+        hostPort: 9000
+      - containerPort: 9001
+        hostPort: 9001
+    env:
+      - name: BASE_HREF
+        value: /minio/
+  volumes:
+  - name: localvolume
+    hostPath: # MinIO generally recommends using locally-attached volumes
+      path: /Users/kanchanapadmanabhan/OneDrive/Personal-Course/Vector/Model Deployment/mlops_course/Week 3/data # Specify a path to a local drive or volume on the Kubernetes worker node
+      type: DirectoryOrCreate # The path to the last directory must exist
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: minio-service
+  namespace: argo
+spec:
+  selector:
+    app: minio
+  type: LoadBalancer
+  ports:
+    - name: "ui-address"
+      port: 9000
+      targetPort: 9000
+      protocol: TCP
+    - name: "console-address"
+      port: 9001
+      targetPort: 9001
+      protocol: TCP
