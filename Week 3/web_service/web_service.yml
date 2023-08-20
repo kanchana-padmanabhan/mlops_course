@@ -1,0 +1,51 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: predict-service-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: predict-service
+  template:
+    metadata:
+      labels:
+        app: predict-service
+    spec:
+      containers:
+      - name: predict-service
+        image: webservice_inference_k8:latest
+        imagePullPolicy: Never
+        ports:
+           - containerPort: 9696
+        env:
+            - name: MINIO_ENDPOINT
+              value: minio-service:9000
+            - name: MINIO_BUCKET
+              value: argo-bucket
+            - name: MINIO_ACCESS_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: argo-artifacts
+                  key: accesskey
+            - name: MINIO_SECRET_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: argo-artifacts
+                  key: secretkey
+        #     hostPort: 9696
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: predict-web-service
+  namespace: argo
+spec:
+  selector:
+    app: predict-service
+  type: LoadBalancer
+  ports:
+    - name: "flaskendpoint"
+      port: 9696
+      targetPort: 9696
+      protocol: TCP

@@ -1,0 +1,20 @@
+name: whalesay
+inputs: {}
+outputs:
+  artifacts:
+    - name: message
+      path: /tmp/hello_world.txt
+      s3:
+        key: hello_world.txt
+      archive:
+        none: {}
+metadata: {}
+container:
+  name: ''
+  image: docker/whalesay:latest
+  command:
+    - sh
+    - '-c'
+  args:
+    - cowsay hello world | tee /tmp/hello_world.txt
+  resources: {}
